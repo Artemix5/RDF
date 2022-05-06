@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cd="https://www.wikidata.org/wiki/cd#">
+  <rdf:Description rdf:about="https://www.wikidata.org/wiki/">
+    <cd:empresa>
+    <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q380">
+        <cd:name>META</cd:name> 
+        <cd:product_or_material_produced>WhatsApp LLC</cd:product_or_material_produced>
+        <cd:product_or_material_produced>Instagram</cd:product_or_material_produced> 
+        <cd:product_or_material_produced>Facebook</cd:product_or_material_produced>
+        <cd:owned>Mark Zuckerberg</cd:owned> 
+        <cd:location>Cambridge</cd:location>
+        <cd:official_website>'https://about.facebook.com/'</cd:official_website>
+    
+    </rdf:Description>
+    </cd:empresa>
+
+    <cd:empresa>
+    <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q32049814">
+        <cd:name>TELEGRAM FZ-LLC</cd:name> 
+        <cd:product_or_material_produced>Telegram</cd:product_or_material_produced>
+        <cd:owned>Pavel Durov</cd:owned> 
+        <cd:location>Dubai</cd:location>
+        <cd:official_website>'https://telegram.org/blog'</cd:official_website>
+    
+    </rdf:Description>
+    </cd:empresa>
+
+    <cd:empresa>
+    <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q27022329">
+        <cd:name>SNAP INC</cd:name> 
+        <cd:product_or_material_produced>Snapchat</cd:product_or_material_produced>
+        <cd:owned>Evan Spiegel</cd:owned> 
+        <cd:location>E.E.U.U</cd:location>
+        <cd:official_website>'https://www.snap.com/'</cd:official_website>
+    
+    </rdf:Description>
+    </cd:empresa>
+
+    <cd:empresa>
+    <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q55606242">
+        <cd:name>ByteDance</cd:name> 
+        <cd:product_or_material_produced>TikTok</cd:product_or_material_produced>
+        <cd:owned>Zhang Yiming</cd:owned> 
+        <cd:location>China</cd:location>
+        <cd:official_website>'https://www.bytedance.com/'</cd:official_website>
+    
+    </rdf:Description>
+    </cd:empresa>
+
+    <cd:empresa>
+    <rdf:Description rdf:about="https://www.wikidata.org/wiki/Q2283">
+        <cd:name>Microsoft</cd:name> 
+        <cd:product_or_material_produced>Gmail</cd:product_or_material_produced>
+        <cd:product_or_material_produced>Outlook</cd:product_or_material_produced>
+        <cd:product_or_material_produced>Linkedin</cd:product_or_material_produced>
+        <cd:owned>Bill Gates</cd:owned> 
+        <cd:location>E.E.U.U</cd:location>
+        <cd:official_website>'https://www.microsoft.com/'</cd:official_website>
+    
+    </rdf:Description>
+    </cd:empresa>
+    
+ </rdf:Description>
+</rdf:RDF>
